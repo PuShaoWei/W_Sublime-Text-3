@@ -388,12 +388,12 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/pushaowei-hj/AppData/Roaming/test/test.bat",
+					"file": "/C/Users/pushaowei-hj/AppData/Roaming/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 214,
+						"buffer_size": 64,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				},
 				{
@@ -660,19 +660,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/pushaowei-hj/AppData/Roaming/test/test.bat",
+							"file": "/C/Users/pushaowei-hj/AppData/Roaming/Sublime Text 3/README.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 214,
+								"buffer_size": 64,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										133,
-										133
+										30,
+										30
 									]
 								],
 								"settings":
@@ -680,7 +680,7 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -702,8 +702,8 @@
 								"selection":
 								[
 									[
-										140,
-										140
+										97,
+										91
 									]
 								],
 								"settings":

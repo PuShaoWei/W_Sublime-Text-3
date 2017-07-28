@@ -1,3 +1,3 @@
-# 个人Sublime 配置 by Windows
+# Sublime Text 3 For Windows 
 
-> C:\Users\xxx\AppData\Roaming\Sublime Text 3
+> Path: %AppData%\Sublime Text 3
