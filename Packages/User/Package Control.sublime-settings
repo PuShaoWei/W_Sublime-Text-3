@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Golang Build",
+		"GoSublime",
+		"GoTests",
+		"GoToTest",
+		"Package Control",
+		"PHP Code Coverage",
+		"PhpDoc",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeREPL"
+	]
+}
