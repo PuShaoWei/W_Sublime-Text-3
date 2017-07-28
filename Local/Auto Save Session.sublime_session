@@ -391,7 +391,7 @@
 					"file": "/C/Users/pushaowei-hj/AppData/Roaming/test/test.bat",
 					"settings":
 					{
-						"buffer_size": 176,
+						"buffer_size": 214,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -400,7 +400,7 @@
 					"file": "/C/Users/pushaowei-hj/AppData/Roaming/Sublime Text 3/Init.bat",
 					"settings":
 					{
-						"buffer_size": 231,
+						"buffer_size": 252,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -450,11 +450,7 @@
 			},
 			"expanded_folders":
 			[
-				"/D/gopath/src",
-				"/D/gopath/src/mathapp",
-				"/D/gopath/src/mytest",
-				"/C/Users/pushaowei-hj/AppData/Roaming/Sublime Text 3",
-				"/C/Users/pushaowei-hj/AppData/Roaming/test"
+				"/C/Users/pushaowei-hj/AppData/Roaming/Sublime Text 3"
 			],
 			"file_history":
 			[
@@ -668,15 +664,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 176,
+								"buffer_size": 214,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										108,
-										108
+										133,
+										133
 									]
 								],
 								"settings":
@@ -699,15 +695,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 231,
+								"buffer_size": 252,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										231,
-										231
+										140,
+										140
 									]
 								],
 								"settings":
@@ -767,7 +763,7 @@
 				"height": 124.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,538,1264,0,1920",
+			"position": "0,2,3,-1,-1,-1,-1,538,1264,0,1920",
 			"project": "",
 			"replace":
 			{
